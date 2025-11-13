@@ -93,7 +93,6 @@
 <div align="center">
 
 [<img alt="LinkedIn" width="120px" height="35" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" />](https://www.linkedin.com/in/maria-luiza-mendes-andreasi-aa205a330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[<img alt="Instagram" width="120px" height="35" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" />](#)
 
 </div>
 
