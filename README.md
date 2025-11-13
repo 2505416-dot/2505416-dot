@@ -1,137 +1,105 @@
 <div align="center">
 	
-# $\textcolor{blue}{Maria  Luiza Mendes Andreasi}$
-### (e-mail: maluandreasi@gmail.com)
+# 💙 Maria Luiza Mendes Andreasi  
+### Arquiteta e Urbanista | CAU Ativo  
+📧 maluandreasi@gmail.com  
+📍 Jundiaí - SP  
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=igarashimassaki&show_icons=true&theme=tokyonight)
-</div> 
-
-<div align="left">
-
-# $\textcolor{darkblue}{Escolaridade:}$
-📝 Inglês avançado 
-
-📝 Curaando Eng. Civil.
-
-🎓 Graduação em Arquitetura e Urbanismo- Escolas Padre Anchieta.
-
-🏫 Ensino Médio: Colégio Tableau.
-
-🏫 Ensino Fundamental: Colégio Carrossel.
-
-</div> 
-&nbsp;
-
-<div align="left">
-	
-<img src="https://github.com/igarashimassaki/Figuras_e_Icones/blob/main/prog.jpg" min-width="40px" max-width="40px" width="400px" align="right" alt="Computador iuriCode">
-
-</div> 
-
-# $\textcolor{darkblue}{Habilidades-Programação:}$
-
-## Linguagens de Programação:
-![C/C++💻](https://img.icons8.com/?size=50&id=55199&format=png)&nbsp;
-![Java☕](https://img.icons8.com/?size=50&id=100506&format=png)&nbsp;
-![Python🐍](https://img.icons8.com/?size=50&id=12592&format=png)&nbsp;
-![R📊](https://img.icons8.com/?size=96&id=CLvQeiwFpit4&format=png)&nbsp;
-
-## ⚡🔧 Eletrônica e Sistemas Embarcados:
-### Eletrônica
-🟩🔋Placa de Circuito e PCB
-🌡️📡Sensores e Instrumentação 
-
-### Microontroladores
-🏗️🛠️Assembly
-⚙️🔌 Programação C++ e Python para Arduino/ESP32 
-⚙️🔌 Programação Python para Raspberry PI
-
-🌐 Redes e Comunicação
-🌍🔗📶Internet das Coisas (IoT)  
-
-
-#### Demais Ferramentas:
-![Anaconda](https://img.icons8.com/?size=96&id=F4uMFPZgS0gt&format=png)&nbsp;
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-
-</div> 
-<div align="center">
-	
-# $\textcolor{blue}{Ambiente - em - atualização...}$
-![Em Desenvolvimento](https://img.freepik.com/vetores-premium/icone-com-vetor-de-icone-do-sistema-de-atualizacao-desenvolvimento-de-software-rede-de-internet_820464-205.jpg?w=1800)&nbsp;
-
-</div> 
-
-<div align="center" markdown="1">
-
-[![GitHub repo forks](https://img.shields.io/github/forks/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Forks)](https://github.com/EbookFoundation/free-programming-books/network)&#160;
-[![GitHub repo stars](https://img.shields.io/github/stars/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Stars)](https://github.com/EbookFoundation/free-programming-books/stargazers)&#160;
-[![GitHub repo contributors](https://img.shields.io/github/contributors-anon/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Contributors)](https://github.com/EbookFoundation/free-programming-books/graphs/contributors)    
-[![GitHub org sponsors](https://img.shields.io/github/sponsors/EbookFoundation?style=flat&logo=github&logoColor=whitesmoke&label=Sponsors)](https://github.com/sponsors/EbookFoundation)&#160;
-[![GitHub repo watchers](https://img.shields.io/github/watchers/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Watchers)](https://github.com/EbookFoundation/free-programming-books/watchers)&#160;
-[![GitHub repo size](https://img.shields.io/github/repo-size/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=whitesmoke&label=Repo%20Size)](https://github.com/EbookFoundation/free-programming-books/archive/refs/heads/main.zip)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=maluandreasi&show_icons=true&theme=tokyonight)
 
 </div>
 
-<div align="center" markdown="1">
+---
 
-[![GitHub repo Issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=red&label=Issues)](https://github.com/EbookFoundation/free-programming-books/issues)&#160;
-[![GitHub repo Good Issues for newbies](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/good%20first%20issue?style=flat&logo=github&logoColor=green&label=Good%20First%20issues)](https://github.com/EbookFoundation/free-programming-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)&#160;
-[![GitHub Help Wanted issues](https://img.shields.io/github/issues/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20issues)](https://github.com/EbookFoundation/free-programming-books/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)    
-[![GitHub repo PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=orange&label=PRs)](https://github.com/EbookFoundation/free-programming-books/pulls)&#160;
-[![GitHub repo Merged PRs](https://img.shields.io/github/issues-search/EbookFoundation/free-programming-books?style=flat&logo=github&logoColor=green&label=Merged%20PRs&query=is%3Amerged)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Apr+is%3Amerged)&#160;
-[![GitHub Help Wanted PRs](https://img.shields.io/github/issues-pr/EbookFoundation/free-programming-books/help%20wanted?style=flat&logo=github&logoColor=b545d1&label=%22Help%20Wanted%22%20PRs)](https://github.com/EbookFoundation/free-programming-books/pulls?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+## 🏫 **Formação Acadêmica**
 
-</div>
+🎓 **Graduação:** Arquitetura e Urbanismo – Escolas Padre Anchieta  
+📜 **Registro Profissional:** CAU ativo  
+🏫 **Ensino Médio:** Colégio Tableau  
+🏫 **Ensino Fundamental:** Colégio Carrossel  
+🗣️ Inglês Avançado  
 
-# ⚡ Principais linguagens de programação no conteúdo deste GitHub
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igarashimassaki&hide=css,html,powershell,elm,php,javascript&show_icons=true&count_private=true&theme=algolia&layout=compact" alt="igarashimassaki" />
+---
 
-# :octocat: GitHub contributions
+## 🧩 **Trabalho de Conclusão de Curso (TCC)**
 
-<img src="https://github-readme-stats.vercel.app/api?username=igarashimassaki&show_icons=true&count_private=true&theme=algolia" alt="igarashimassaki" />
+> **“Conversão funcional-Espaço Expressa e locomotivas em prol da cultura**  
+> Projeto de arquitetônica voltado à **valorização do patrimônio histórico e cultural**, propondo intervenções sustentáveis e integradas ao contexto urbano.
+> Restauração, conversão funcional-troca de uso, ampliação do museu ferroviário e restauro das locomotivas com adição de elementos contemporâneos em vidro e metal.
 
-Some tips and tricks for setting up the local development environment can be found at:
-- [local_dev.md](local_dev.md)
-- [Windows 11](https://gist.github.com/thangchung/cae1a33c0a6a2bc76fa6e6b7bef05b28)
+🧱 Enfoque: preservação do patrimônio, identidade local e reuso adaptativo de edificações.  
+🌿 Resultado: proposta de requalificação reconhecida pela relevância cultural e sensibilidade no tratamento do espaço urbano.
 
-<!--
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thangchung&show_icons=true&count_private=true&theme=algolia" alt="thangchung" />
-</p> -->
+---
 
-<!--
-<a href="https://www.buymeacoffee.com/thangchung" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-green.png" alt="Buy Me A Beer" style="height: 51px !important;width: 217px !important;" ></a>
--->
-###
+## 🧰 **Habilidades e Ferramentas**
 
-<h3 align="left">🔥   My Stats :</h3>
+### 💻 Softwares de Arquitetura e Engenharia
+| Ferramenta | Descrição |
+|-------------|------------|
+| 🏗️ **AutoCAD** | Projetos técnicos 2D e detalhamento arquitetônico |
+| 🏛️ **Revit** | Modelagem de informações e documentação integrada |
+| 🧱 **SketchUp** | Modelagem tridimensional e estudos volumétricos |
+| 📊 **Excel / Project** | Planejamento e controle de cronogramas |
 
-###
+---
+
+### 🧠 **Ferramentas Digitais e de Programação**
+| Ferramenta | Aplicação |
+|-------------|------------|
+| 🐍 **Python / Streamlit** | Criação de painéis interativos e visualização de dados arquitetônicos |
+| 💻 **Google Colab** | Execução de notebooks e automação de processos acadêmicos |
+| 🧩 **GitHub** | Portfólio digital, versionamento e compartilhamento de projetos |
+| ☁️ **Google Drive / Docs** | Organização e documentação de projetos colaborativos |
+---
+
+## 🎓 **Cursos e Aperfeiçoamentos**
+
+🏛️ **Capacitação em Regularização Fundiária Urbana (Reurb)** – Escola de Governo, com certificado.  
+🌆 Foco em políticas públicas, urbanismo inclusivo e instrumentos de regularização.  
+♿ **Curso de Acessibilidade e Desenho Universal** – Escola de Governo, com certificado.  
+🌿 Abordagem sobre inclusão social, acessibilidade arquitetônica e adequação de espaços urbanos e edificações conforme as normas NBR 9050.
+---
+
+## 🌿 **Áreas de Atuação e Interesse**
+
+- Patrimônio histórico e requalificação urbana 🏛️  
+- Arquitetura sustentável e reuso adaptativo ♻️  
+- Planejamento urbano e políticas públicas 🌇  
+- Design de interiores e conforto ambiental 🪴  
+- Modelagem BIM e tecnologias aplicadas à arquitetura 💡  
+
+---
+
+## 🎨 **Projetos em Destaque**
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=igarashimassaki&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img src="https://img.freepik.com/fotos-gratis/modelo-de-arquitetura-de-casa-moderna-em-miniatura_23-2147849617.jpg?w=900" width="400px" alt="Projeto 3D" />
 </div>
 
-###
+🧩 **Residência Contemporânea em tijolinho Aparente**  
+> Projeto autoral desenvolvido em Revit.
+
+🧩 **Centro Cultural “Espaço Expressa”**  
+> Intervenção urbana inspirada no TCC, com foco em revitalização e preservação patrimonial.
+
+---
+
+## 📈 **GitHub Stats**
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maluandreasi&show_icons=true&theme=tokyonight&layout=compact" alt="Top Langs" />
+
+---
+
+## 🌐 **Conecte-se comigo**
+
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+[<img alt="LinkedIn" width="120px" height="35" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" />](#)  
+[<img alt="Instagram" width="120px" height="35" src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" />](#)
+
 </div>
 
-###
+---
 
-<div align="center">
-	
-[<img alt="alt_text" width="120px" height="35" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" />](https://www.linkedin.com/in/massaki-de-oliveira-igarashi-47629931/)
-<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=igarashimassaki&"  />
-</div>
-
-###
+> 💬 *“A arquitetura é a arte de transformar o espaço em memória, expressão e identidade.”*  
