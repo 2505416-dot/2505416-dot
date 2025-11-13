@@ -1,7 +1,7 @@
 <div align="center">
 	
-# $\textcolor{blue}{Maria Luiza Mendes Andreasi}$
-### (e-mail: massaki.igarashi@gmail.com)
+# $\textcolor{blue}{Maria  Luiza Mendes Andreasi}$
+### (e-mail: maluandreasi@gmail.com)
 
 ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=igarashimassaki&show_icons=true&theme=tokyonight)
 </div> 
@@ -9,14 +9,15 @@
 <div align="left">
 
 # $\textcolor{darkblue}{Escolaridade:}$
+📝 Inglês avançado 
 
-📝 Mestrado (Stricto Sensu) em Eng. da Informação: Univ. Federal do ABC (UFABC)
+📝 Curaando Eng. Civil.
 
-🎓 Graduação em Eng. Elétrica/Eletrônica: Univ. Presbiteriana Mackenzie
+🎓 Graduação em Arquitetura e Urbanismo- Escolas Padre Anchieta.
 
-🏫 Ensino Médio: Colégio Leonardo Davinci.
+🏫 Ensino Médio: Colégio Tableau.
 
-🏫 Ensino Fundamental: Esola Paroquial Francisco Telles (Ensino Vicentino).
+🏫 Ensino Fundamental: Colégio Carrossel.
 
 </div> 
 &nbsp;
