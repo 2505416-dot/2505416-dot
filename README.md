@@ -73,9 +73,6 @@
 
 ## 🎨 **Projetos em Destaque**
 
-<div align="center">
-<img src="https://img.freepik.com/fotos-gratis/modelo-de-arquitetura-de-casa-moderna-em-miniatura_23-2147849617.jpg?w=900" width="400px" alt="Projeto 3D" />
-</div>
 
 🧩 **Residência Contemporânea em tijolinho Aparente**  
 > Projeto autoral desenvolvido em Revit.
