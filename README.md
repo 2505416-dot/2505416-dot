@@ -1,7 +1,7 @@
 <div align="center">
 	
 # 💙 Maria Luiza Mendes Andreasi  
-### Arquiteta e Urbanista | CAU Ativo  
+### Arquiteta e Urbanista | CAU Ativo|Projetos, obras e aprovação legal|AutoCad-SketchUp-Revit|Engenharia civil em curso  
 📧 maluandreasi@gmail.com  
 📍 Jundiaí - SP  
 
