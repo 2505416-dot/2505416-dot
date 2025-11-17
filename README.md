@@ -15,7 +15,7 @@
 
 🎓 **Graduação:** Arquitetura e Urbanismo – Escolas Padre Anchieta  
 📜 **Registro Profissional:** CAU ativo  
-📜**Engenharia civil e curso**– Escolas Padre Anchieta  
+📜**Engenharia civil em curso**– Escolas Padre Anchieta  
 🏫 **Ensino Médio:** Colégio Tableau  
 🏫 **Ensino Fundamental:** Colégio Carrossel  
 🗣️ Inglês Avançado  
