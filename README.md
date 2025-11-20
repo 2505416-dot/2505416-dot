@@ -5,7 +5,7 @@
 📧 maluandreasi@gmail.com  
 📍 Jundiaí - SP  
 
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=maluandreasi&show_icons=true&theme=tokyonight)
+![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=2505416-dot&show_icons=true&theme=tokyonight)
 
 </div>
 
